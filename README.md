@@ -1,2 +1,2 @@
-# CalinicencoDenis.github.io
-My First Site
+# Кальниченко Денис | Calinicenco Denis
+Мои домашние работы в процессе обучения web-разработке
